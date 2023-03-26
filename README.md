@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Artem Tyshchuk
 
 🔭I'm currently working on my first React project<br>🤝I'm looking to collaborate on weather app<br>🌱I'm currently learning React<br>💬Ask me everything!<br>🥑Fun fact Avocados are a fruit, not a vegetable. They're technically considered a single-seeded berry, believe it or not.
 
