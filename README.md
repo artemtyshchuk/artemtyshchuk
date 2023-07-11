@@ -1,6 +1,7 @@
-# Hi there 👋, My name is Artem Tyshchuk
+# Hi 👋, I'm Artem
 
-🔭I'm currently working on my first React project<br>🤝I'm looking to collaborate on weather app<br>🌱I'm currently learning React<br>💬Ask me everything!<br>🥑Fun fact Avocados are a fruit, not a vegetable. They're technically considered a single-seeded berry, believe it or not.
+## About me,
+🔭I am a front-end developer with over a year of experience learning and writing projects in native JS and React, using various libraries, including the Redux state management library. I'm interested in information technology and how it transforms businesses by influencing their strategy.<br>💎And I'm also interested in cryptocurrency, I invest and observe how it is transforming the world expanding our understanding of the power of human communication. How the desire for innovation and new technologies can drive the financial industry forward.
 
 
 ## 🌐 Socials:
