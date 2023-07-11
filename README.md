@@ -1,7 +1,7 @@
 # Hi 👋, I'm Artem
 
 ## About me,
-🔭I am a front-end developer with over a year of experience learning and writing projects in native JS and React, using various libraries, including the Redux state management library. I'm interested in information technology and how it transforms businesses by influencing their strategy.<br>💎And I'm also interested in cryptocurrency, I invest and observe how it is transforming the world expanding our understanding of the power of human communication. How the desire for innovation and new technologies can drive the financial industry forward.
+🔭I'm a front-end developer with over a year of experience learning and writing projects in native JS and React, using various libraries, including the Redux state management library. I'm interested in information technology and how it transforms businesses by influencing their strategy.<br>💎I'm also interested in cryptocurrency, I invest and observe how it is transforming the world expanding our understanding of the power of human communication. How the desire for innovation and new technologies can drive the financial industry forward.
 
 
 ## 🌐 Socials:
