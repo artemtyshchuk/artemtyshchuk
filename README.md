@@ -1,7 +1,7 @@
 # Hi 👋 I'm Artem
 
 ## About me,
-🔭I'm a front-end developer with over a year of experience learning and writing projects in React and TypeScript, using various libraries, including the Redux state management library. I'm interested in information technology and how it transforms businesses by influencing their strategy.
+🔭I specialize in front-end development using React, TypeScript, and various libraries, including the state management tool Redux. My experience spans the study and implementation of projects, involving collaboration with external APIs and internal project databases.
 
 
 ## 🌐 Socials:
