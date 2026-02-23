@@ -1,7 +1,48 @@
 # Hi 👋 I'm Artem Tyshchuk
 
-## About me,
-I specialize in **Front-end** development with a strong focus on **React** and **TypeScript**, utilizing a wide **range of libraries** to deliver **scalable**, **user-friendly**, and responsive web applications. I have **hands-on experience** with state management tools like **Redux**, styled-components, and **SCSS** for crafting **clean**, **maintainable** UI components. My **expertise** also extends to **animation techniques** using libraries such as **Framer Motion**, creating **smooth** and **engaging** user interactions.
+## 🚀 Frontend & Mobile Developer
+
+I build fast, scalable, and production-ready web & mobile applications using **React, Next.js, React Native (Expo), and TypeScript**.
+
+Over the past 2.5+ years, I’ve been delivering cross-platform solutions — from real-time dashboards to feature-rich mobile apps with camera, geolocation, push notifications, audio, and haptics.
+
+I don’t just write components — I think in systems.
+
+I work across the full development lifecycle:
+- Feature planning & architecture decisions  
+- Clean and scalable component design  
+- State management strategy  
+- Performance optimization  
+- Long-term maintainability  
+
+---
+
+## 💡 What I Bring to a Project
+
+### ⚡ Performance-First Mindset
+I care deeply about rendering performance, especially on mobile.  
+I optimize re-renders, structure components thoughtfully, and design predictable state flows.
+
+### 🧠 Strong State Management Strategy
+- **MobX / Redux** for complex client-side logic  
+- **React Query** for server-state, caching, and real-time updates  
+- Custom authentication flows (token refresh, RBAC, protected routes/screens)
+
+### 📱 Real Mobile Experience
+I’ve implemented:
+- Camera integrations  
+- Geolocation features  
+- Push notifications  
+- Audio & haptics  
+- Offline-friendly data handling  
+
+### 🏗 Architecture & Scalability
+- Refactoring large UIs into reusable design systems  
+- Improving delivery speed through component abstraction  
+- Building admin dashboards with complex workflows and auth  
+- Collaborating in Agile teams (code reviews, async workflows, sprint planning)
+
+---
 
 
 ## 🌐 Socials:
